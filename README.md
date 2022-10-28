@@ -1,4 +1,4 @@
-# Basci NFT Contract
+# Basic NFT Contract
 
 This Repo uses a basic NFT contract to test and deploy using hardhat.
 
